@@ -1,0 +1,40 @@
+/* ADMIN_main.css */
+@charset "UTF-8";
+
+#ADMIN_Container {
+	width:1735px;
+	min-height:610px;
+	height:100%;
+}
+
+.ADMIN_Content {
+	width:100%;
+	height:100%;
+	text-align:center;
+}
+/* ADMIN_Main */
+
+.ADMIN_OpenBoard_Table {
+	width:850px;
+	margin-left:5px;
+	margin-right:5px;
+	text-align:center;
+	border:2px solid #d5d5d5;
+	border-collapse:collapse;
+}
+#Left_OpenBoard {
+	display:inline-block;
+	width:49.8%;
+	min-height:610px;
+	height:100%;
+	text-align:center;
+}
+#Right_AlbumBoard {
+	display:inline-block;
+	width:49.8%;
+	min-height:610px;
+	height:100%;
+	text-align:center;
+}
+
+/* ADMIN_Board */

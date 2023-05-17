@@ -1,0 +1,66 @@
+/* MyPage_main.css */
+@charset "UTF-8";
+
+.MyPage_Container {
+	width:1735px;
+	min-height:610px;
+	height:100%;
+}
+
+.MyPage_Content {
+	width:100%;
+	height:100%;
+	text-align:center;
+}
+
+#MyPage_TOP {
+	position:relative;
+	display:inline-block;
+	width:1100px;
+	border-bottom:2px solid #d5d5d5;
+}
+
+#MyPage_Body {
+	position:relative;
+	display:inline-block;
+	margin-top:10px;
+	width:1100px;
+	text-align:center;
+	border-bottom:2px solid #d5d5d5;
+}
+.MP_Menu {
+	display:inline-block;
+	width:200px;
+	height:100px;
+	text-align:center;
+	font-size:15pt;
+	margin-top:10px;
+	margin-bottom:10px;
+	border-left:2px solid #d5d5d5;
+	border-right:2px solid #d5d5d5;
+}
+.MP_Menu > a {
+	color:blue;
+	margin-bottom:5px;
+	font-size:20pt;
+	border-bottom:2px solid #d5d5d5;
+}
+
+/* MyPage_main */
+
+.MyPage_Cash_Form {
+	margin-bottom:50px;
+}
+.Cash_Table {
+	width:100%;
+	text-align:center;
+	margin-top:10px;
+	margin-bottom:10px;
+	font-size:15pt;
+	border:2px solid #d5d5d5;
+	border-collapse:collapse;
+}
+.attention {
+	width:100%;
+	background-color:pink;
+}

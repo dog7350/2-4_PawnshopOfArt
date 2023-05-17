@@ -1,0 +1,53 @@
+/* albumboard.css */
+@charset "UTF-8";
+
+#Album_Container {
+	width:1735px;
+}
+
+.Album_Content {
+	width:100%;
+	height:100%;
+	text-align:center;
+}
+
+/* AlbumBoard */
+
+#Board_C_Info {
+	text-align:center;
+	font-weight:bold;
+	padding-bottom:10px;
+	margin-bottom:10px;
+	border-bottom:2px solid #d5d5d5;
+}
+#Board_C_Genre {
+	float:left;
+}
+#Board_C_Price {
+	float:right;
+}
+
+#Board_C_Product {
+	text-align:center;
+	margin-bottom:10px;
+}
+#Board_C_Down {
+	float:right;
+}
+
+#Board_C_Before {
+	width:100%;
+	text-align:center;
+}
+#Board_C_Before > audio {
+	position:absolute;
+	display:none;
+}
+
+#ply_btn {
+	font-size:15pt;
+}
+#stp_btn {
+	font-size:15pt;
+}
+/* AlbumContent */

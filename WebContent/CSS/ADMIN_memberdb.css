@@ -1,0 +1,15 @@
+/* ADMIN_memberdb.css */
+@charset "UTF-8";
+
+.ADMIN_Board {
+	position:relative;
+	display:inline-block;
+	width:1500px;
+}
+
+.ADMIN_Table {
+	width:1500px;
+	text-align:center;
+	border:2px solid #d5d5d5;
+	border-collapse:collapse;
+}
